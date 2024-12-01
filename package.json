@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "DeliveryPrinterApp": "file:",
     "react": "18.3.1",
-    "react-native": "0.76.3"
+    "react-native": "0.76.3",
+    "react-native-ble-plx": "^3.2.1",
+    "react-native-esc-pos-printer": "^4.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
